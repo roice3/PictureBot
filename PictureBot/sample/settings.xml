@@ -1,0 +1,7 @@
+<Settings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+   <Archive>false</Archive>
+   <ImageDirectory>D:\HoneycombBot\images</ImageDirectory>
+   <KeysFile>D:\HoneycombBot\keys.txt</KeysFile>
+   <RandomizeOrder>true</RandomizeOrder>
+   <TweetStringFile>D:\HoneycombBot\tweetStrings.txt</TweetStringFile>
+</Settings>

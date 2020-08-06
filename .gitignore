@@ -1,0 +1,9 @@
+
+*.suo
+PictureBot/.vs
+PictureBot/obj
+PictureBot/bin
+PictureBot/packages
+PictureBot/script
+PictureBot/working
+PictureBot/PictureBot.csproj.user
